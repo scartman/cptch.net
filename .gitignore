@@ -1,0 +1,7 @@
+__pycache__
+*.jpeg
+config.*
+.vscode/
+demo.py
+cptchenv/
+test.py
